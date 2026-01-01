@@ -33,6 +33,18 @@ Example:
 
 ---
 
+### Update all SHA commit submodule
+
+    git submodule update --init --remote --recursive
+
+---
+
+### deinit(remove code) all submodule
+
+    git submodule deinit --all --force
+
+---
+
 ### Notes
 
 - The submodule tracks the `<branch-name>` branch (e.g. `main`)
