@@ -1,0 +1,4 @@
+[submodule "backend/typescript/elysia"]
+	path = backend/typescript/elysia
+	url = https://github.com/bunnanna/todo-elysia.git
+	branch = main
