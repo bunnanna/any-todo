@@ -2,3 +2,7 @@
 	path = backend/typescript/elysia
 	url = https://github.com/bunnanna/todo-elysia.git
 	branch = main
+[submodule "test/api"]
+	path = test/api
+	url = https://github.com/bunnanna/todo-api-test.git
+	branch = main
