@@ -6,3 +6,7 @@
 	path = test/api
 	url = https://github.com/bunnanna/todo-api-test.git
 	branch = main
+[submodule "backend/java/spring-webflux"]
+	path = backend/java/spring-webflux
+	url = https://github.com/bunnanna/todo-spring-webflux.git
+	branch = main
